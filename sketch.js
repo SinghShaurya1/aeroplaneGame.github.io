@@ -14,7 +14,7 @@ let crashSound, planeCrossedSound;
 let boom;
 
 function preload() {
-  backgroundImage = loadImage("./assets/untitled.png");
+  backgroundImage = loadImage("./assets/Untitled.png");
   aeroplane1Img = loadImage('./assets/Aeroplane1.png')
   aeroplane2Img = loadImage('./assets/Aeroplane2.png');
   aeroplane3Img = loadImage('./assets/Aeroplane3.png');
